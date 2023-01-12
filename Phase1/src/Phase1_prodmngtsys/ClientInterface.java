@@ -6,7 +6,7 @@ public class ClientInterface {
 
     public static void displayname()
     {
-        System.out.
+        System.out.println("Welcome ADMIN");
     }
 
     public static void main(String[] args)
