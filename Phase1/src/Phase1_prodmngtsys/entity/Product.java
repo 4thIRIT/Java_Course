@@ -1,4 +1,4 @@
-package Phase1_prodmngtsys;
+package Phase1_prodmngtsys.entity;
 
 public class Product {
 
@@ -11,8 +11,7 @@ public class Product {
         // TODO Auto-generated constructor stub
     }
 
-    public Product(int pid, String pname, String desc, double price)
-    {
+    public Product(int pid, String pname, String desc, double price) {
         this.pid = pid;
         this.pname = pname;
         this.desc = desc;
